@@ -18,10 +18,9 @@ drone.
 > hardware-specific features (see [What's different](CHANGES.md)).
 > Huge thanks to Oleg and the Flix community.
 
-<!--
-| 1 | 2 | 3 |
-|---|---|---|
-<!-- ![Sprig-Drone drone](docs/images/drone.jpg) -->
+| <img src="images/DSCF6409.JPG" width=300/> | <img src="images/DSCF6418.JPG" width=300/> | <img src="images/DSCF6476.JPG" width=300/> |
+|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+
 
 ---
 
