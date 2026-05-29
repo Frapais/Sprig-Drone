@@ -1,6 +1,12 @@
 MIT License
 
-Copyright (c) 2026 Konstantinos Paraskevas
+Copyright (c) 2023 Oleg Kalachev <okalachev@gmail.com>
+Copyright (c) 2026 Sprig Labs <https://sprig-labs.com>
+
+This project is a derivative of the Flix open source quadcopter firmware
+by Oleg Kalachev (https://github.com/okalachev/flix), used and modified
+under the terms of the MIT License. The original copyright notice is
+retained above, as required by that license.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
