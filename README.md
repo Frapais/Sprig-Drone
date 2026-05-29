@@ -15,10 +15,12 @@ drone.
 > under the MIT License. Flix provides the flight control firmware, the
 > attitude estimator, the MAVLink/QGroundControl integration and the overall
 > architecture. This repo adapts that work to the Sprig-C3 board and adds a few
-> hardware-specific features (see [What's different](#whats-different-from-upstream-flix)).
+> hardware-specific features (see [What's different](CHANGES.md)).
 > Huge thanks to Oleg and the Flix community.
 
-<!-- Add a hero photo / GIF of the assembled drone here -->
+<!--
+| 1 | 2 | 3 |
+|---|---|---|
 <!-- ![Sprig-Drone drone](docs/images/drone.jpg) -->
 
 ---
